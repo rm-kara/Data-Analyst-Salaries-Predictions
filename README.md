@@ -1,25 +1,17 @@
-# Ford-Used-Car-Predictions
+# Data Analyst Salary Predictions USA
 
 
 ## Table of contents
 * [General Info](#general-info)
 * [Data](#data)
-* [Idea](#idea)
 * [Results](#results)
 
 ## General Info
-The whole data set contains about 370.000 used cars from Ebay-Kleinanzeigen including all kind of brands
+This dataset contains more than 2000 job listing for data analyst positions.
 
 ## Data
-* [Data set](https://www.kaggle.com/orgesleka/used-cars-database)
-* The content of the data is in German, but it should also be understandable for non-German speakers
-
-## Idea
-* Only keep rows that include Ford cars
-* Created a XGBoost Regression Model to predict Ford used car prices based on the reduced data set
+* [Data set](https://www.kaggle.com/andrewmvd/data-analyst-jobs?select=DataAnalyst.csv)
+* Information gathered from Glasdoor, contains wide range of Salary estimates.
 
 ## Results
-* Mean Absolute Error: 680.63€
-* Mean Squared Error: 1296394.66€
-* Root Mean Squared Error: 1138.59€
-* R2 Score: 94%
+* Mean Absolute Error: 14487.95$
