@@ -36,11 +36,11 @@ Finally I optimized the model using **GridSearchCV**.
 * seaborn 0.10.1
 
 ### Installing Requirements
-To create a new anaconda environment, download [conda_requirements.txt](https://github.com/rm-kara/Data-Analyst-Salaries-Predictions/blob/master/conda_requirements.txt) and enter the following command:  
+To create a new anaconda environment, download [conda_requirements.txt](https://github.com/rm-kara/Data-Analyst-Salaries-Predictions/blob/master/requirements/conda_requirements.txt) and enter the following command:  
 ```
 <conda create --name <env> --file conda_requirements.txt>
 ```
-To install the packages with pip, download [requirements.txt](https://github.com/rm-kara/Data-Analyst-Salaries-Predictions/blob/master/requirements.txt) and enter the following command:  
+To install the packages with pip, download [requirements.txt](https://github.com/rm-kara/Data-Analyst-Salaries-Predictions/blob/master/requirements/requirements.txt) and enter the following command:  
 ```
 <pip install -r requirements.txt>
 ```
