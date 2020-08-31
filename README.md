@@ -20,7 +20,7 @@
 ## Project Overview
 In this project I analyzed a dataset containing **over 2000 job advertisements for numerous data analyst positions**.  
 The data was cleaned using **Pandas** and **Numpy**, visualizations were developed with **Seaborn** and **Matplotlib**.  
-Transformational steps such as encoding categorical- and numerical variables were implemented by using Scikit-learn's **Pipeline, StandardScaler, OneHotEncoder and ColumnTransformer** module.  
+Transformational steps such as encoding categorical- and numerical variables were implemented by using Scikit-learn's **Pipeline, StandardScaler, OneHotEncoder and ColumnTransformer** modules.  
 To narrow down a large hyperparameter space of the developed **RandomForest** model, I used **RandomizedSearchCV**.  
 Finally I optimized the model using **GridSearchCV**.
 
